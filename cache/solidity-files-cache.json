@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/workspace/Swisstronik-1/contracts/Lock.sol": {
-      "lastModificationDate": 1722107023681,
+    "/workspaces/Swisstronik-1/contracts/Lock.sol": {
+      "lastModificationDate": 1722278016607,
       "contentHash": "35c62732d9d2ba4eccdc34ae09929e2c",
       "sourceName": "contracts/Lock.sol",
       "solcConfig": {
